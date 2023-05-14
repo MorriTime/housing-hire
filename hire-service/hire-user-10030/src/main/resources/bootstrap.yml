@@ -1,0 +1,20 @@
+server:
+  port: 10030
+
+spring:
+  application:
+    name: hire-user-10030
+  cloud:
+    nacos:
+      # 注册中心配置
+      discovery:
+        server-addr: localhost:8848
+        namespace: b0a29104-3b3c-4ec1-9cab-63929582c617
+      # 配置中心配置
+      config:
+        server-addr: localhost:8848
+        file-extension: yml
+        namespace: b0a29104-3b3c-4ec1-9cab-63929582c617
+        extension-configs:
+          - data-id: db_common.yml
+            group: DEFAULT_GROUP

@@ -1,0 +1,24 @@
+logging:
+  level:
+    org:
+      springframework:
+        security: DEBUG
+
+security:
+  oauth2:
+    client:
+      client-id: user-client
+      client-secret: user-secret-8888
+      user-authorization-uri: http://localhost:9020/oauth/authorize
+      access-token-uri: http://localhost:9000/oauth/token
+    resource:
+      id: user-client
+      user-info-uri: user-info
+    authorization:
+      check-token-access: http://localhost:9020/oauth/check_token
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: "*"

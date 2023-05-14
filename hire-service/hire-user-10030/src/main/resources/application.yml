@@ -1,0 +1,5 @@
+minio:
+  endpoint: localhost:9000
+  accessKey: pWIUVKNLUVAZ1Vm0
+  secretKey: bT2zCgyDEvjxNe1a5DJwMdqmU6zzjYQA
+  bucketName: public

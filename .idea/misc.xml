@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/hire-admin-10030/pom.xml" />
+        <option value="$PROJECT_DIR$/hire-alibaba/pom.xml" />
+        <option value="$PROJECT_DIR$/hire-gateway/pom.xml" />
+        <option value="$PROJECT_DIR$/hire-service-10010/pom.xml" />
+        <option value="$PROJECT_DIR$/hire-user-10010/pom.xml" />
+        <option value="$PROJECT_DIR$/hire-user-10020/pom.xml" />
+        <option value="$PROJECT_DIR$/hire_common_10000/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

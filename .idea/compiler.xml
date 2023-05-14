@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="hire-gateway" />
+        <module name="common-mybatis-plus" />
+        <module name="hire-base-10000" />
+        <module name="hire-super-10010" />
+        <module name="hire-user-10030" />
+        <module name="common-elastic" />
+        <module name="common-web" />
+        <module name="hire-oauth2" />
+        <module name="common-redis" />
+        <module name="common-base" />
+        <module name="hire-admin-10020" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="hire-admin-10030" target="1.8" />
+      <module name="hire-alibaba" target="1.8" />
+      <module name="hire-service-10010" target="1.8" />
+      <module name="hire-user-10020" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

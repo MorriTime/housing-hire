@@ -1,0 +1,4 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration =\
+  com.hire.common.web.config.FeignConfig,\
+  com.hire.common.web.exception.GlobalExceptionHandler,\
+  com.hire.common.web.config.FeignErrorDecoder

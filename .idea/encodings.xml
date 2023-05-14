@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/hire-admin-10030/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hire-admin-10030/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hire-alibaba/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hire-alibaba/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hire-common/common-base/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hire-common/common-base/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hire-common/common-elastic/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hire-common/common-elastic/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hire-common/common-mybatis-plus/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hire-common/common-mybatis-plus/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hire-common/common-redis/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hire-common/common-redis/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hire-common/common-web/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hire-common/common-web/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hire-common/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hire-common/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hire-gateway/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hire-gateway/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hire-security/hire-gateway/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hire-security/hire-gateway/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hire-security/hire-oauth2/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hire-security/hire-oauth2/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hire-security/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hire-security/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hire-service-10010/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hire-service-10010/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hire-service/hire-admin-10020/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hire-service/hire-admin-10020/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hire-service/hire-base-10000/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hire-service/hire-base-10000/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hire-service/hire-super-10010/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hire-service/hire-super-10010/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hire-service/hire-user-10030/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hire-service/hire-user-10030/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hire-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hire-service/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hire-user-10010/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hire-user-10010/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hire-user-10020/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hire-user-10020/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+  </component>
+</project>

@@ -1,0 +1,20 @@
+spring:
+  mail:
+    host: smtp.qq.com
+    username: zyiheng.gt@foxmail.com
+    password:
+    default-encoding: UTF-8
+    port: 465
+    properties:
+      mail:
+        debug: true
+        smtp:
+          socketFactory:
+            class: javax.net.ssl.SSLSocketFactory
+
+feign:
+  client:
+    config:
+      default:
+        connectTimeout: 30000
+        readTimeout: 30000
